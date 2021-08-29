@@ -1,5 +1,4 @@
-# Welcome to GitHub Desktop!
+# 머신러닝과 데이터분석 
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+## 패스트캠퍼스 
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
